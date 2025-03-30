@@ -1482,7 +1482,6 @@
     "renderers/function": {
         "name": "renderers/function",
         "scope": "teambit.api-reference",
-        "version": "0.0.67",
         "mainFile": "index.ts",
         "rootDir": "scopes/api-reference/renderers/function"
     },
